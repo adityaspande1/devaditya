@@ -14,9 +14,8 @@ The interactive tool provides a concise and engaging way to explore my professio
 
 ## Usage
 
+Open the terminal/cmd and run 
 ```javascript
-//open the terminal 
-//run 
 npx devaditya
 ```
 
